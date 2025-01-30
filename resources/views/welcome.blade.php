@@ -16,7 +16,7 @@
                                 <div>
                                     <span class="fs-20 opacity-6 mb-25px sm-mb-15px d-inline-block fw-300">Best solutions for your business</span>
                                 </div>
-                                <h1 class="alt-font w-90 xl-w-100 text-shadow-double-large ls-minus-2px">Agency for your <span class="fw-600">great business.</span></h1>
+                                <h1 class="alt-font w-90 xl-w-100 text-shadow-double-large ls-minus-2px">Agency for your <span class="">great business.</span></h1>
                                 <a href="" target="_blank" class="btn btn-extra-large btn-rounded with-rounded btn-base-color btn-box-shadow box-shadow-extra-large mt-20px sm-mt-0">Get Consultation<span class="bg-white text-base-color"><i class="fas fa-arrow-right"></i></span></a>
                             </div>
                         </div>
@@ -34,7 +34,7 @@
                                 <div>
                                     <span class="fs-20 opacity-6 mb-25px sm-mb-15px d-inline-block fw-300">Delivering beautiful digital products</span>
                                 </div>
-                                <h1 class="alt-font w-90 xl-w-100 text-shadow-double-large ls-minus-2px">Shape the future of<span class="fw-600"> marketing.</span></h1>
+                                <h1 class="alt-font w-90 xl-w-100 text-shadow-double-large ls-minus-2px">Shape the future of<span class=""> marketing.</span></h1>
                                 <a href="" class="btn btn-extra-large btn-rounded with-rounded btn-base-color btn-box-shadow box-shadow-extra-large mt-20px sm-mt-0">Get started now<span class="bg-white text-base-color"><i class="fa-solid fa-arrow-right"></i></span></a>
                             </div>
                         </div>
@@ -52,7 +52,7 @@
                                 <div>
                                     <span class="fs-20 opacity-6 mb-25px sm-mb-15px d-inline-block fw-300">Business strategies and top ideas</span>
                                 </div>
-                                <h1 class="alt-font w-90 xl-w-100 text-shadow-double-large ls-minus-2px">Provide solutions to <span class="fw-600">small business.</span></h1>
+                                <h1 class="alt-font w-90 xl-w-100 text-shadow-double-large ls-minus-2px">Provide solutions to <span class="">small business.</span></h1>
                                 <a href="" target="_blank" class="btn btn-extra-large btn-rounded with-rounded btn-base-color btn-box-shadow box-shadow-extra-large mt-20px sm-mt-0">Contact Us<span class="bg-white text-base-color"><i class="fa-solid fa-arrow-right"></i></span></a>
                             </div>
                         </div>
@@ -864,7 +864,7 @@
                                 </h3>
                             </div>
                             <div class="col-md-2 position-relative z-index-1 text-center sm-mb-20px">
-                                <a href="https://www.youtube.com/watch?v=cfXHhfNy7tU" class="position-relative d-inline-block text-center border border-2 border-color-white rounded-circle video-icon-box video-icon-large popup-youtube">
+                                <a href="https://www.youtube.com/watch?v=LEji2aTSgB4" class="position-relative d-inline-block text-center border border-2 border-color-white rounded-circle video-icon-box video-icon-large popup-youtube">
                                     <span>
                                         <span class="video-icon">
                                             <i class="fa-solid fa-play fs-20 text-white"></i>
@@ -874,7 +874,7 @@
                             </div>
                         </div>
                         <div class="w-100 text-center position-relative mt-auto pt-20px pb-25px ps-15px pe-15px border-top border-color-transparent-white-light">
-                            <div class="fs-14 text-uppercase text-white fw-600 ls-05px">Let's make something great work together. <a href="demo-corporate-contact.html" class="text-decoration-line-bottom text-white">Got a project in mind?</a></div>
+                            <div class="fs-14 text-uppercase text-white fw-600 ls-05px">Let's make something great work together. <a href="" class="text-decoration-line-bottom text-white">Got a project in mind?</a></div>
                         </div>
                     </div>
                 </div>
