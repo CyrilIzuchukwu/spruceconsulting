@@ -148,7 +148,7 @@ Route::middleware(['auth', 'isSuperAdmin'])->group(function () {
 
 
 
-    
+
     // News and events
     Route::get('admin/add-blog', [BlogEventController::class, 'add_blog'])->name('add_blog');
 
@@ -162,6 +162,7 @@ Route::middleware(['auth', 'isSuperAdmin'])->group(function () {
 
     Route::post('admin/update-blog/{id}', [BlogEventController::class, 'update_blog'])->name('update_blog');
 
+    Route::get('/blog/details/{id}', [BlogEventController::class, 'blowShow'])->name('blog.show');
 
 
 

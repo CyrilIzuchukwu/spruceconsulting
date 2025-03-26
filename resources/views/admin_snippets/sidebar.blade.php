@@ -2,7 +2,7 @@
 
     <!-- Sidebar profile starts -->
     <div class="sidebar-profile">
-        <img src="admin_assets/assets/images/user6.png" class="img-shadow img-3x me-3 rounded-5" alt="Hospital Admin Templates">
+        <img src="admin_assets/assets/images/user.jpg" class="img-shadow img-3x me-3 rounded-5" alt="Hospital Admin Templates">
         <div class="m-0">
             <h5 class="mb-1 profile-name text-nowrap text-truncate">{{ auth()->user()->name }}</h5>
             <p class="m-0 small profile-name text-nowrap text-truncate">Super Admin</p>
@@ -21,12 +21,12 @@
             </li>
 
             @if (auth()->user()->role_as != 2)
-            <li class="">
+            <!-- <li class="">
                 <a href="{{ route('users') }}">
                     <i class="ri-nurse-line"></i>
                     <span class="menu-text">Users</span>
                 </a>
-            </li>
+            </li> -->
             @endif
 
             <li class="treeview">
@@ -64,7 +64,7 @@
 
 
 
-            <li class="treeview">
+            <!-- <li class="treeview">
                 <a href="#!">
                     <i class="ri-customer-service-fill"></i>
                     <span class="menu-text">Services</span>
@@ -77,7 +77,7 @@
                         <a href="{{ route('service') }}">View Service</a>
                     </li>
                 </ul>
-            </li>
+            </li> -->
 
 
             <li class="treeview">
@@ -104,12 +104,12 @@
                 </a>
             </li>
 
-            <li>
+            <!-- <li>
                 <a href="{{ route('inquiry') }}">
                     <i class="ri-message-2-line"></i>
                     <span class="menu-text">Inquiry</span>
                 </a>
-            </li>
+            </li> -->
             <li>
                 <a href="{{ route('contact_information') }}">
                     <i class="ri-road-map-line"></i>

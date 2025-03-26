@@ -59,7 +59,7 @@
 
             <!-- Row starts -->
             <div class="row gx-3">
-                <div class="col-md-3 col-sm-6 col-12">
+                <!-- <div class="col-md-3 col-sm-6 col-12">
                     <div class="card mb-3">
                         <div class="card-body">
                             <div class="d-flex align-items-center">
@@ -77,6 +77,29 @@
                                 <a class="text-danger" href="{{ route('inquiry') }}">
                                     <span>View All</span>
                                     <i class="ri-arrow-right-line text-danger ms-1"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+                <div class="col-md-3 col-sm-6 col-12">
+                    <div class="card mb-3">
+                        <div class="card-body">
+                            <div class="d-flex align-items-center">
+                                <div class="p-2 border border-danger rounded-circle me-3">
+                                    <div class="icon-box md bg-danger-subtle rounded-5">
+                                        <i class="ri-news-fill fs-4 text-danger"></i>
+                                    </div>
+                                </div>
+                                <div class="d-flex flex-column">
+                                    <h2 class="lh-1">{{ $blogCount }}</h2>
+                                    <p class="m-0">Blog</p>
+                                </div>
+                            </div>
+                            <div class="d-flex align-items-end justify-content-between mt-1">
+                                <a class="text-danger" href="javascript:void(0);">
+                                    <span>View All</span>
+                                    <i class="ri-arrow-right-line ms-1"></i>
                                 </a>
                             </div>
                         </div>
@@ -128,29 +151,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 col-12">
-                    <div class="card mb-3">
-                        <div class="card-body">
-                            <div class="d-flex align-items-center">
-                                <div class="p-2 border border-danger rounded-circle me-3">
-                                    <div class="icon-box md bg-danger-subtle rounded-5">
-                                        <i class="ri-news-fill fs-4 text-danger"></i>
-                                    </div>
-                                </div>
-                                <div class="d-flex flex-column">
-                                    <h2 class="lh-1">{{ $blogCount }}</h2>
-                                    <p class="m-0">Blog</p>
-                                </div>
-                            </div>
-                            <div class="d-flex align-items-end justify-content-between mt-1">
-                                <a class="text-danger" href="javascript:void(0);">
-                                    <span>View All</span>
-                                    <i class="ri-arrow-right-line ms-1"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
 
 
                 <div class="col-md-3 col-sm-6 col-12">

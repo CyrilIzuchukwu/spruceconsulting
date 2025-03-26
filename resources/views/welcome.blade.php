@@ -7,17 +7,17 @@
         <div class="swiper-wrapper">
             <!-- start slider item -->
             <div class="swiper-slide overflow-hidden">
-                <div class="cover-background overlay-relative position-absolute top-0 start-0 w-100 h-100" data-swiper-parallax="500" style="background-image:url('assets/images/demo-business-slider-01.jpg');">
+                <div class="cover-background overlay-relative position-absolute top-0 start-0 w-100 h-100" data-swiper-parallax="500" style="background-image:url('assets/images/new/hero1.jpeg');">
                     <div class="bg-gradient-sherpa-blue-black overlay-absolute"></div>
 
                     <div class="container h-100 hero-content" data-swiper-parallax="-500">
-                        <div class="row align-items-center h-100">
-                            <div class="col-xl-7 col-lg-8 col-md-10 position-relative text-white text-center text-md-start" data-anime='{ "el": "childs", "translateX": [100, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                        <div class="row align-items-center justify-content-center h-100">
+                            <div class="col-xl-10 col-lg-10 col-md-10 position-relative text-white text-center text-md-center" data-anime='{ "el": "childs", "translateX": [100, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                                 <div>
                                     <span class="fs-20 opacity-6 mb-25px sm-mb-15px d-inline-block fw-300">Best solutions for your business</span>
                                 </div>
-                                <h1 class="alt-font w-90 xl-w-100 text-shadow-double-large ls-minus-2px">Agency for your <span class="">great business.</span></h1>
-                                <a href="" target="_blank" class="btn btn-extra-large btn-rounded with-rounded btn-base-color btn-box-shadow box-shadow-extra-large mt-20px sm-mt-0">Get Consultation<span class="bg-white text-base-color"><i class="fas fa-arrow-right"></i></span></a>
+                                <h1 class="heading-text alt-font w-90 xl-w-100 text-shadow-double-large ls-minus-2px">Agency for your <span class="">great business.</span></h1>
+                                <a href="#" style="text-align: center;" target="_blank" class="btn btn-extra-large btn-rounded with-rounded btn-base-color btn-box-shadow box-shadow-extra-large mt-20px sm-mt-0">Get Consultation<span class="bg-white text-base-color"><i class="fas fa-arrow-right"></i></span></a>
                             </div>
                         </div>
                     </div>
@@ -26,11 +26,11 @@
             <!-- end slider item -->
             <!-- start slider item -->
             <div class="swiper-slide overflow-hidden">
-                <div class="overlay-relative cover-background position-absolute top-0 start-0 w-100 h-100" data-swiper-parallax="500" style="background-image:url('assets/images/demo-business-slider-03.jpg');">
+                <div class="overlay-relative cover-background position-absolute top-0 start-0 w-100 h-100" data-swiper-parallax="500" style="background-image:url('assets/images/new/hero3.jpeg');">
                     <div class="overlay-absolute bg-gradient-sherpa-blue-black"></div>
                     <div class="container hero-content h-100" data-swiper-parallax="-500">
-                        <div class="row align-items-center h-100">
-                            <div class="col-xl-7 col-lg-8 col-md-10 position-relative text-white text-center text-md-start" data-anime='{ "el": "childs", "translateX": [100, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                        <div class="row align-items-center justify-content-center h-100">
+                            <div class="col-xl-10 col-lg-10 col-md-10 position-relative text-white text-center text-md-center" data-anime='{ "el": "childs", "translateX": [100, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                                 <div>
                                     <span class="fs-20 opacity-6 mb-25px sm-mb-15px d-inline-block fw-300">Delivering beautiful digital products</span>
                                 </div>
@@ -44,11 +44,11 @@
             <!-- end slider item -->
             <!-- start slider item -->
             <div class="swiper-slide overflow-hidden">
-                <div class="overlay-relative cover-background position-absolute top-0 start-0 w-100 h-100" data-swiper-parallax="500" style="background-image:url('assets/images/demo-business-slider-02.jpg');">
+                <div class="overlay-relative cover-background position-absolute top-0 start-0 w-100 h-100" data-swiper-parallax="500" style="background-image:url('assets/images/new/hero4.jpeg');">
                     <div class="overlay-absolute bg-gradient-sherpa-blue-black"></div>
                     <div class="container hero-content h-100" data-swiper-parallax="-500">
-                        <div class="row align-items-center h-100">
-                            <div class="col-xl-7 col-lg-8 col-md-10 position-relative text-white text-center text-md-start" data-anime='{ "el": "childs", "translateX": [100, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                        <div class="row align-items-center justify-content-center h-100">
+                            <div class="col-xl-10 col-lg-10 col-md-10 position-relative text-white text-center text-md-center" data-anime='{ "el": "childs", "translateX": [100, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                                 <div>
                                     <span class="fs-20 opacity-6 mb-25px sm-mb-15px d-inline-block fw-300">Business strategies and top ideas</span>
                                 </div>
@@ -139,21 +139,21 @@
                     <h3 class="alt-font text-dark-gray fw-600 ls-minus-1px mb-20px sm-w-85 xs-w-100 mx-auto">Who We Are.</h3>
                     <p>Spruce Consulting is a premier media agency based in Nigeria, dedicated to helping brands, individuals, and organizations harness the power of digital media and out-of-home (OOH) advertising. We are passionate about driving meaningful connections between brands and their audiences, creating campaigns that inspire, inform, and engage.</p>
 
-                    <a href="demo-corporate-about.html" class="btn btn-large btn-dark-gray btn-hover-animation-switch btn-box-shadow btn-rounded me-25px xs-me-0">
+                    <a href="/about" class="btn btn-large btn-dark-gray btn-hover-animation-switch btn-box-shadow btn-rounded me-25px xs-me-0">
                         <span>
                             <span class="btn-text">Read More</span>
                             <span class="btn-icon"><i class="feather icon-feather-arrow-right"></i></span>
                             <span class="btn-icon"><i class="feather icon-feather-arrow-right"></i></span>
                         </span>
                     </a>
-                    <span class="text-dark-gray fw-700 ls-minus-05px d-block d-sm-inline-block sm-mt-15px"><a href="tel:1800222000"><i class="feather icon-feather-phone-call me-10px"></i>1 800 222 000</a></span>
+                    <span class="text-dark-gray fw-700 ls-minus-05px d-block d-sm-inline-block sm-mt-15px"><a href="tel:08137322869"><i class="feather icon-feather-phone-call me-10px"></i>08137322869</a></span>
                 </div>
                 <div class="col-xl-6 col-lg-6 offset-xl-1 position-relative">
                     <div class="text-end w-80 md-w-75 ms-auto" data-animation-delay="500" data-shadow-animation="true" data-bottom-top="transform: translateY(50px)" data-top-bottom="transform: translateY(-50px)">
-                        <img src="{{ asset('assets/images/demo-business-company-02.jpg') }}" alt="" class="border-radius-5px">
+                        <img src="{{ asset('assets/images/new/who-we-are1.jpg') }}" alt="" class="border-radius-5px">
                     </div>
                     <div class="w-60 md-w-50 xs-w-55 overflow-hidden position-absolute left-15px bottom-minus-50px" data-shadow-animation="true" data-animation-delay="500" data-bottom-top="transform: translateY(-50px)" data-top-bottom="transform: translateY(50px)">
-                        <img src="{{ asset('assets/images/demo-business-company-01.jpg') }}" alt="" class="border-radius-5px box-shadow-quadruple-large">
+                        <img src="{{ asset('assets/images/new/who-we-are2.jpg') }}" alt="" class="border-radius-5px box-shadow-quadruple-large">
                     </div>
                 </div>
             </div>
@@ -204,12 +204,12 @@
                         <div class="tab-pane fade in active show" id="tab_four1">
                             <div class="row align-items-center">
                                 <div class="col-md-5 offset-xl-1 sm-mb-30px">
-                                    <img src="{{ asset('assets/images/demo-business-tab-01.jpg') }}" alt="" class="border-radius-6px  mission-img">
+                                    <img src="{{ asset('assets/images/new/mission.jpg') }}" alt="" class="border-radius-6px  mission-img">
                                 </div>
                                 <div class="col-xl-5 col-md-7 offset-xl-1 text-center text-md-start">
                                     <span class="fs-18 fw-600 text-base-color mb-25px d-flex align-items-center justify-content-center justify-content-md-start"><span class="text-center w-60px h-60px d-flex justify-content-center align-items-center rounded-circle bg-white box-shadow-medium-bottom align-middle me-15px flex-shrink-0"><i class="feather icon-feather-briefcase fs-22"></i></span>Our Mission</span>
                                     <p>To be the go-to media partner for transforming brands into trusted household names through innovative communication strategies.</p>
-                                    <a href="" class="btn btn-large btn-box-shadow btn-rounded btn-base-color mt-10px">Contact Us</a>
+                                    <a href="/contact" class="btn btn-large btn-box-shadow btn-rounded btn-base-color mt-10px">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -218,13 +218,13 @@
                         <div class="tab-pane fade in" id="tab_four2">
                             <div class="row align-items-center">
                                 <div class="col-md-5 offset-xl-1 sm-mb-30px">
-                                    <img src="{{ asset('assets/images/demo-business-tab-02.jpg') }}" alt="" class="border-radius-6px w-100">
+                                    <img src="{{ asset('assets/images/new/vision.jpg') }}" alt="" class="border-radius-6px w-100">
                                 </div>
                                 <div class="col-xl-5 col-md-7 offset-xl-1 text-center text-md-start">
                                     <span class="fs-18 fw-600 text-base-color mb-25px d-flex align-items-center justify-content-center justify-content-md-start"><span class="text-center w-60px h-60px d-flex justify-content-center align-items-center rounded-circle bg-white box-shadow-medium-bottom align-middle me-15px flex-shrink-0"><i class="feather icon-feather-globe fs-22"></i></span>Our Vision</span>
 
-                                    <p>To deliver cutting-edge media solutions that combine creativity, technology, and data-driven insights, empowering businesses and individuals to achieve sustainable growth.</p>
-                                    <a href="" class="btn btn-large btn-box-shadow btn-rounded btn-base-color mt-10px">Contact Us</a>
+                                    <p>We are committed to integrity, creativity, and excellence in delivering impactful media solutions that drive long-term success for our clients.</p>
+                                    <a href="/contact" class="btn btn-large btn-box-shadow btn-rounded btn-base-color mt-10px">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -234,12 +234,12 @@
                         <div class="tab-pane fade in" id="tab_four3">
                             <div class="row align-items-center">
                                 <div class="col-md-5 offset-xl-1 sm-mb-30px">
-                                    <img src="{{ asset('assets/images/demo-business-tab-03.jpg') }}" alt="" class="border-radius-6px w-100">
+                                    <img src="{{ asset('assets/images/new/core-values.jpg') }}" alt="" class="border-radius-6px w-100">
                                 </div>
                                 <div class="col-xl-5 col-md-7 offset-xl-1 text-center text-md-start">
                                     <span class="fs-18 fw-600 text-base-color mb-25px d-flex align-items-center justify-content-center justify-content-md-start"><span class="text-center w-60px h-60px d-flex justify-content-center align-items-center rounded-circle bg-white box-shadow-medium-bottom align-middle me-15px flex-shrink-0"><i class="feather icon-feather-compass fs-22"></i></span>Our Core Values</span>
                                     <p>We always want our client grow with the product we have delivered and maintaining strong long-term good relationship.</p>
-                                    <a href="" class="btn btn-large btn-box-shadow btn-rounded btn-base-color mt-10px">Contact Us</a>
+                                    <a href="/contact" class="btn btn-large btn-box-shadow btn-rounded btn-base-color mt-10px">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -259,8 +259,8 @@
                 <div class="col-xl-5 col-lg-6 md-mb-50px text-center text-lg-start" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="bg-solitude-blue text-uppercase fs-13 ps-25px pe-25px alt-font fw-600 text-base-color lh-40 sm-lh-55 border-radius-100px d-inline-block mb-25px">Why Us</span>
                     <h3 class="alt-font text-dark-gray fw-600 ls-minus-1px">Why Choose Spruce Consulting?.</h3>
-                    <p>We are excited for our work and how it positively impacts clients. With over 12 years of experience we have been constantly providing excellent solutions.</p>
-                    <a href="" class="btn btn-large btn-box-shadow btn-rounded btn-dark-gray mt-10px">Book Consultation</a>
+                    <p>At Spruce Consulting, we go beyond conventional advertising—we create impactful connections between brands and their audiences. Our approach blends creativity, data-driven insights, and deep industry expertise to ensure your message resonates where it matters most.</p>
+                    <a href="#" target="_blank" class="btn btn-large btn-box-shadow btn-rounded btn-dark-gray mt-10px">Book Consultation</a>
                 </div>
                 <div class="col-xl-5 col-lg-6 offset-xl-2 position-relative">
                     <div class="accordion pricing-table-style-04" id="accordion-style-01" data-active-icon="fa-angle-up" data-inactive-icon="fa-angle-down" data-anime='{"el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
@@ -365,7 +365,7 @@
                             <h3 class="text-white fw-700 mb-0 ls-minus-1px">Core Services</h3>
                         </div>
                         <div class="col-lg-5 last-paragraph-no-margin md-mb-20px">
-                            <p class="w-85 md-w-100">We strive to develop real-world web solutions that are ideal for small to large projects with bespoke your custom project requirements.</p>
+                            <p class="w-85 md-w-100"> We craft strategic communications, marketing, and branding solutions to elevate businesses, influencers, and political entities.</p>
                         </div>
                         <div class="col-lg-2 d-flex justify-content-center justify-content-lg-end">
                             <!-- start slider navigation -->
@@ -387,20 +387,20 @@
                                         <div class="swiper-slide">
                                             <!-- start interactive banner item -->
                                             <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                                <img src="assets/images/demo-corporate-slider-img-01.jpg" alt="" />
+                                                <img src="{{ asset('assets/images/new/brand-management.jpg') }}" alt="Brand Management" />
                                                 <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
                                                 <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
 
                                                     <div class="mt-auto d-flex align-items-start w-100 z-index-1 position-relative overflow-hidden flex-column">
                                                         <span class="text-white fw-600 fs-20">Brand Management</span>
                                                         <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Explore Services</span>
-                                                        <a href="" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore services</a>
+                                                        <a href="/services" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore services</a>
                                                         <span class="content-arrow lh-42px rounded-circle bg-white w-50px h-50px ms-20px text-center"><i class="fa-solid fa-chevron-right text-dark-gray fs-16"></i></span>
                                                     </div>
                                                     <div class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-regal-blue-transparent opacity-9">
                                                     </div>
                                                     <div class="box-overlay bg-gradient-base-color-transparent"></div>
-                                                    <a href="demo-corporate-services-details.html" class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
+                                                    <a href="/services" class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
                                                 </div>
                                             </div>
                                             <!-- end interactive banner item -->
@@ -411,7 +411,7 @@
                                         <div class="swiper-slide">
                                             <!-- start interactive banner item -->
                                             <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                                <img src="assets/images/demo-corporate-slider-img-02.jpg" alt="" />
+                                                <img src="{{ asset('assets/images/new/corporate-communication.jpg') }}" alt="Corporate Communications" />
                                                 <div class="opacity-very-light bg-slate-blue"></div>
                                                 <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
 
@@ -420,13 +420,13 @@
                                                             Corporate Communications
                                                         </span>
                                                         <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Explore Services</span>
-                                                        <a href="demo-corporate-services-details.html" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore services</a>
+                                                        <a href="services" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore services</a>
                                                         <span class="content-arrow lh-42px rounded-circle bg-white w-50px h-50px ms-20px text-center"><i class="fa-solid fa-chevron-right text-dark-gray fs-16"></i></span>
                                                     </div>
                                                     <div class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-regal-blue-transparent opacity-9">
                                                     </div>
                                                     <div class="box-overlay bg-gradient-base-color-transparent"></div>
-                                                    <a href="demo-corporate-services-details.html" class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
+                                                    <a href="/services" class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
                                                 </div>
                                             </div>
                                             <!-- end interactive banner item -->
@@ -437,22 +437,19 @@
                                         <div class="swiper-slide">
                                             <!-- start interactive banner item -->
                                             <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                                <img src="assets/images/demo-corporate-slider-img-03.jpg" alt="" />
+                                                <img src="{{ asset('assets/images/new/influencer-marketing.jpg') }}" alt="Influencer Marketing" />
                                                 <div class="opacity-very-light bg-slate-blue"></div>
                                                 <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
-                                                    <!-- <div class="hover-label-icon position-relative z-index-9">
-                                                        <div class="label bg-base-color fw-600 text-white text-uppercase border-radius-30px ps-20px pe-20px fs-12 ls-05px">Influencer Marketing</div>
-                                                        <i class="line-icon-Financial text-white icon-extra-large"></i>
-                                                    </div> -->
+
                                                     <div class="mt-auto d-flex align-items-start w-100 z-index-1 position-relative overflow-hidden flex-column">
                                                         <span class="text-white fw-600 fs-20">Influencer Marketing</span>
                                                         <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Explore Services</span>
-                                                        <a href="demo-corporate-services-details.html" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore Services</a>
+                                                        <a href="/services" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore Services</a>
                                                         <span class="content-arrow lh-42px rounded-circle bg-white w-50px h-50px ms-20px text-center"><i class="fa-solid fa-chevron-right text-dark-gray fs-16"></i></span>
                                                     </div>
                                                     <div class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-regal-blue-transparent opacity-9"></div>
                                                     <div class="box-overlay bg-gradient-base-color-transparent"></div>
-                                                    <a href="demo-corporate-services-details.html" class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
+                                                    <a href="/services" class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
                                                 </div>
                                             </div>
                                             <!-- end interactive banner item -->
@@ -463,42 +460,43 @@
                                         <div class="swiper-slide">
                                             <!-- start interactive banner item -->
                                             <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                                <img src="assets/images/demo-corporate-slider-img-04.jpg" alt="" />
+                                                <img src="{{ asset('assets/images/new/fintech.jpg') }}" alt="FINTECH Solutions" />
                                                 <div class="opacity-very-light bg-slate-blue"></div>
                                                 <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
 
                                                     <div class="mt-auto d-flex align-items-start w-100 z-index-1 position-relative overflow-hidden flex-column">
                                                         <span class="text-white fw-600 fs-20">MSMEs and FINTECH Solutions</span>
                                                         <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Explore Services</span>
-                                                        <a href="demo-corporate-services-details.html" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore Services</a>
+                                                        <a href="/services" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore Services</a>
                                                         <span class="content-arrow lh-42px rounded-circle bg-white w-50px h-50px ms-20px text-center"><i class="fa-solid fa-chevron-right text-dark-gray fs-16"></i></span>
                                                     </div>
                                                     <div class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-regal-blue-transparent opacity-9"></div>
                                                     <div class="box-overlay bg-gradient-base-color-transparent"></div>
-                                                    <a href="" class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
+                                                    <a href="/services" class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
                                                 </div>
                                             </div>
                                             <!-- end interactive banner item -->
                                         </div>
                                         <!-- end slider item -->
+
                                         <!-- start slider item -->
                                         <div class="swiper-slide">
                                             <!-- start interactive banner item -->
                                             <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                                <img src="assets/images/demo-corporate-slider-img-01.jpg" alt="" />
+                                                <img src="{{ asset('assets/images/new/political.jpg') }}" alt="Polical Communications" />
                                                 <div class="opacity-extra-medium bg-gradient-dark-transparent"></div>
                                                 <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
 
                                                     <div class="mt-auto d-flex align-items-start w-100 z-index-1 position-relative overflow-hidden flex-column">
                                                         <span class="text-white fw-600 fs-20">Political Communications</span>
                                                         <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Explore Services</span>
-                                                        <a href="demo-corporate-services-details.html" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore Services</a>
+                                                        <a href="/services" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore Services</a>
                                                         <span class="content-arrow lh-42px rounded-circle bg-white w-50px h-50px ms-20px text-center"><i class="fa-solid fa-chevron-right text-dark-gray fs-16"></i></span>
                                                     </div>
                                                     <div class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-regal-blue-transparent opacity-9">
                                                     </div>
                                                     <div class="box-overlay bg-gradient-base-color-transparent"></div>
-                                                    <a href="demo-corporate-services-details.html" class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
+                                                    <a href="/services" class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
                                                 </div>
                                             </div>
                                             <!-- end interactive banner item -->
@@ -508,20 +506,20 @@
                                         <div class="swiper-slide">
                                             <!-- start interactive banner item -->
                                             <div class="interactive-banner-style-09 border-radius-6px overflow-hidden position-relative">
-                                                <img src="assets/images/demo-corporate-slider-img-02.jpg" alt="" />
+                                                <img src="{{ asset('assets/images/new/ooh.jpg') }}" alt="Out-of-Home (OOH) Advertising" />
                                                 <div class="opacity-very-light bg-slate-blue"></div>
                                                 <div class="image-content h-100 w-100 ps-15 pe-15 pt-13 pb-13 md-p-10 d-flex justify-content-bottom align-items-start flex-column">
 
                                                     <div class="mt-auto d-flex align-items-start w-100 z-index-1 position-relative overflow-hidden flex-column">
                                                         <span class="text-white fw-600 fs-20"> Out-of-Home (OOH) Advertising</span>
                                                         <span class="content-title text-white fs-13 fw-500 text-uppercase ls-05px">Explore Services</span>
-                                                        <a href="demo-corporate-services-details.html" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore Services</a>
+                                                        <a href="/services" class="content-title-hover fs-13 lh-24 fw-500 ls-05px text-uppercase text-white opacity-6 text-decoration-line-bottom">Explore Services</a>
                                                         <span class="content-arrow lh-42px rounded-circle bg-white w-50px h-50px ms-20px text-center"><i class="fa-solid fa-chevron-right text-dark-gray fs-16"></i></span>
                                                     </div>
                                                     <div class="position-absolute left-0px top-0px w-100 h-100 bg-gradient-regal-blue-transparent opacity-9">
                                                     </div>
                                                     <div class="box-overlay bg-gradient-base-color-transparent"></div>
-                                                    <a href="" class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
+                                                    <a href="/services" class="position-absolute z-index-1 top-0px left-0px h-100 w-100"></a>
                                                 </div>
                                             </div>
                                             <!-- end interactive banner item -->
@@ -535,7 +533,7 @@
                     <div class="row">
                         <div class="col-12 text-center">
                             <i class="bi bi-envelope text-white d-inline-block align-middle icon-extra-medium me-10px md-m-5px"></i>
-                            <div class="fs-18 text-white d-inline-block align-middle">Save your precious time and effort spent for finding a solution. <a href="" class="text-white text-decoration-line-bottom">Contact us now</a></div>
+                            <div class="fs-18 text-white d-inline-block align-middle">Save your precious time and effort spent for finding a solution. <a href="/contact" class="text-white text-decoration-line-bottom">Contact us now</a></div>
                         </div>
                     </div>
                 </div>
@@ -670,7 +668,7 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-12 text-center align-items-center" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <div class="bg-base-color fw-700 text-white text-uppercase border-radius-30px ps-20px pe-20px fs-12 me-10px sm-m-5px d-inline-block align-middle">hurray</div>
-                    <div class="fs-18 fw-500 text-dark-gray d-inline-block align-middle">Let's make something great work together. <a href="demo-corporate-contact.html" class="text-dark-gray text-decoration-line-bottom fw-700">Got a project in mind?</a>
+                    <div class="fs-18 fw-500 text-dark-gray d-inline-block align-middle">Let's make something great work together. <a href="/contact" class="text-dark-gray text-decoration-line-bottom fw-700">Got a project in mind?</a>
                     </div>
                 </div>
             </div>
@@ -687,7 +685,7 @@
             style="background-image: url('assets/images/demo-corporate-bg-02.png')">
             <div class="row justify-content-center mb-3">
                 <div class="col-xxl-6 col-xl-7 col-lg-8 col-md-9 text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Trusted by the world's fastest growing companies</h3>
+                    <h3 class="text-dark-gray fw-700 ls-minus-1px">What People Are Saying</h3>
                 </div>
             </div>
             <div class="row justify-content-center align-items-center mb-6 sm-mb-8" data-anime='{ "el": "childs", "translateY": [0, 0], "opacity": [0,1], "duration": 1200, "delay": 100, "staggervalue": 150, "easing": "easeOutQuad" }'>
@@ -695,84 +693,30 @@
                     <div class="swiper magic-cursor testimonials-style-06" data-slider-options='{ "loop": true, "autoplay": { "delay": 4000, "disableOnInteraction": false }, "keyboard": { "enabled": true, "onlyInViewport": true }, "navigation": { "nextEl": ".swiper-button-next-nav", "prevEl": ".swiper-button-previous-nav", "effect": "fade" } }'>
                         <div class="swiper-wrapper">
                             <!-- start testimonial item -->
+                            @forelse($testimonialView as $testimonial)
                             <div class="swiper-slide">
                                 <div class="row align-items-center justify-content-center">
                                     <div class="col-8 col-md-4 col-sm-6 text-center md-mb-30px">
-                                        <img alt="" src="assets/images/demo-corporate-testimonials-01.png">
+                                        <img alt="" style="height: 200px; width: 200px; border-radius: 50%; object-fit: cover;" src="{{ asset('client_logos/' . $testimonial->client_logo) }}">
                                     </div>
                                     <div class="col-lg-5 col-md-7 last-paragraph-no-margin text-center text-md-start">
                                         <a href="#" class="mb-15px d-block"><img src="images/logo-monday-dark-blue-01.svg" class="h-35px" alt=""></a>
-                                        <span class="mb-5px d-table fs-18 lh-30 fw-500 text-dark-gray">Their team are easy to work with and helped me make amazing websites in a short amount of time. Thanks guys for all your hard work. Trust us we looked for a very long time.</span>
-                                        <span class="fs-15 text-uppercase fw-800 text-base-color ls-1px">Herman miller, Monday</span>
+                                        <span class="mb-5px d-table fs-18 lh-30 fw-500 text-dark-gray">
+                                            {{ $testimonial->testimonial }}
+                                        </span>
+                                        <span class="fs-15 text-uppercase fw-800 text-base-color ls-1px">{{ $testimonial->client_name }}</span>
                                     </div>
                                 </div>
                             </div>
-                            <!-- end testimonial item -->
-                            <!-- start testimonial item -->
-                            <div class="swiper-slide">
-                                <div class="row align-items-center justify-content-center">
-                                    <div class="col-8 col-md-4 col-sm-6 text-center md-mb-30px">
-                                        <img alt="" src="assets/images/demo-corporate-testimonials-02.png">
-                                    </div>
-                                    <div class="col-lg-5 col-md-7 last-paragraph-no-margin text-center text-md-start">
-                                        <a href="#" class="mb-15px d-block"><img src="images/logo-loitech-dark-blue.svg" class="h-35px" alt=""></a>
-                                        <span class="mb-5px d-table fs-18 lh-30 fw-500 text-dark-gray">Their team are easy to work with and helped me make amazing websites in a short amount of time. Thanks guys for all your hard work. Trust us we looked for a very long time.</span>
-                                        <span class="fs-15 text-uppercase fw-800 text-base-color ls-1px">Leonel mooney, Logitech</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end testimonial item -->
-                            <!-- start testimonial item -->
-                            <div class="swiper-slide">
-                                <div class="row align-items-center justify-content-center">
-                                    <div class="col-8 col-md-4 col-sm-6 text-center md-mb-30px">
-                                        <img alt="" src="assets/images/demo-corporate-testimonials-03.png">
-                                    </div>
-                                    <div class="col-lg-5 col-md-7 last-paragraph-no-margin text-center text-md-start">
-                                        <a href="#" class="mb-15px d-block"><img src="images/logo-invision-dark-blue.svg" class="h-35px" alt=""></a>
-                                        <span class="mb-5px d-table fs-18 lh-30 fw-500 text-dark-gray">Their team are easy to work with and helped me make amazing websites in a short amount of time. Thanks guys for all your hard work. Trust us we looked for a very long time.</span>
-                                        <span class="fs-15 text-uppercase fw-800 text-base-color ls-1px">Matthew taylor, invision</span>
-                                    </div>
-                                </div>
-                            </div>
+                            @empty
+                            <p class="text-danger"></p>
+                            @endforelse
                             <!-- end testimonial item -->
                         </div>
                         <!-- start slider navigation -->
                         <div class="swiper-button-previous-nav swiper-button-prev md-left-0px"><i class="feather icon-feather-arrow-left icon-extra-medium text-dark-gray"></i></div>
                         <div class="swiper-button-next-nav swiper-button-next md-right-0px"><i class="feather icon-feather-arrow-right icon-extra-medium text-dark-gray"></i></div>
                         <!-- end slider pagination -->
-                    </div>
-                </div>
-            </div>
-            <div class="row row-cols-1 row-cols-md-3 justify-content-center mb-6 md-mb-8 sm-mb-45px" data-anime='{ "el": "childs", "willchange": "transform", "perspective": [1200,1200], "translateY": [0, 0], "scale": [1.1, 1], "rotateX": [30, 0], "opacity": [0,1], "duration": 1000, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                <div class="col sm-mb-30px">
-                    <div class="bg-white h-100 border-radius-6px text-center box-shadow-quadruple-large box-shadow-quadruple-large-hover">
-                        <div class="pt-10 pb-10">
-                            <img src="assets/images/logo-monday-dark-gray-02.svg" class="h-40px md-h-35px sm-h-40px" alt="" />
-                        </div>
-                        <!-- <div class="border-top fs-16 p-15px last-paragraph-no-margin">
-                            <p>Project management - <span class="fw-600 text-dark-gray">275% Growth</span></p>
-                        </div> -->
-                    </div>
-                </div>
-                <div class="col sm-mb-30px">
-                    <div class="bg-white h-100 border-radius-6px text-center box-shadow-quadruple-large box-shadow-quadruple-large-hover">
-                        <div class="pt-10 pb-10">
-                            <img src="assets/images/logo-dropbox-dark-gray-02.svg" class="h-40px md-h-35px sm-h-40px" alt="" />
-                        </div>
-                        <!-- <div class="border-top fs-16 border-1 border-color-extra-medium-gray p-15px last-paragraph-no-margin">
-                            <p>Team management - <span class="fw-600 text-dark-gray">195% Growth</span></p>
-                        </div> -->
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="bg-white h-100 border-radius-6px text-center box-shadow-quadruple-large box-shadow-quadruple-large-hover">
-                        <div class="pt-10 pb-10">
-                            <img src="assets/images/logo-slack-dark-gray-02.svg" class="h-40px md-h-35px sm-h-40px" alt="" />
-                        </div>
-                        <!-- <div class="border-top fs-16 border-1 border-color-extra-medium-gray p-15px last-paragraph-no-margin">
-                            <p>Secure storage - <span class="fw-600 text-dark-gray">235% Growth</span></p>
-                        </div> -->
                     </div>
                 </div>
             </div>
@@ -792,58 +736,33 @@
                 </div>
             </div>
             <div class="row position-relative clients-style-08 mt-25px" data-anime='{ "opacity": [0,1], "duration": 600, "delay":200, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                <div class="col swiper text-center feather-shadow" data-slider-options='{ "slidesPerView": 2, "spaceBetween":0, "speed": 3000, "loop": true, "pagination": { "el": ".slider-four-slide-pagination-2", "clickable": false }, "allowTouchMove": false, "autoplay": { "delay":0, "disableOnInteraction": false}, "navigation": { "nextEl": ".slider-four-slide-next-2", "prevEl": ".slider-four-slide-prev-2" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1200": { "slidesPerView": 5 }, "992": { "slidesPerView": 3 }, "576": { "slidesPerView": 2 } }, "effect": "slide" }'>
+                <div class="col swiper text-center feather-shadow" data-slider-options='{ "slidesPerView": 2, "spaceBetween":0, "speed": 3000, "loop": true, "pagination": { "el": ".slider-four-slide-pagination-2", "clickable": false }, "allowTouchMove": false, "autoplay": { "delay":0, "disableOnInteraction": false}, "navigation": { "nextEl": ".slider-four-slide-next-2", "prevEl": ".slider-four-slide-prev-2" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1200": { "slidesPerView": 3 }, "992": { "slidesPerView": 3 }, "576": { "slidesPerView": 2 } }, "effect": "slide" }'>
                     <div class="swiper-wrapper marquee-slide">
+
                         <!-- start client item -->
                         <div class="swiper-slide">
-                            <a href="#"><img src="assets/images/logo-walmart-dark-blue.svg" alt=""></a>
+                            <a href="javascript:void(0)"><img src="{{asset('assets/images/new/afe.jpeg') }}" alt="" /></a>
                         </div>
                         <!-- end client item -->
+
                         <!-- start client item -->
                         <div class="swiper-slide">
-                            <a href="#"><img src="assets/images/logo-netflix-dark-blue.svg" alt=""></a>
+                            <a href="javascript:void(0)"><img src="{{asset('assets/images/new/ajebota.png') }}" alt="" /></a>
                         </div>
                         <!-- end client item -->
+
                         <!-- start client item -->
                         <div class="swiper-slide">
-                            <a href="#"><img src="assets/images/logo-invision-dark-blue.svg" alt=""></a>
+                            <a href="javascript:void(0)"><img src="{{asset('assets/images/new/afe.jpeg') }}" alt="" /></a>
                         </div>
                         <!-- end client item -->
+
                         <!-- start client item -->
                         <div class="swiper-slide">
-                            <a href="#"><img src="assets/images/logo-yahoo-dark-blue.svg" alt=""></a>
+                            <a href="javascript:void(0)"><img src="{{asset('assets/images/new/ajebota.png') }}" alt="" /></a>
                         </div>
                         <!-- end client item -->
-                        <!-- start client item -->
-                        <div class="swiper-slide">
-                            <a href="#"><img src="assets/images/logo-amazon-dark-blue.svg" alt=""></a>
-                        </div>
-                        <!-- end client item -->
-                        <!-- start client item -->
-                        <div class="swiper-slide">
-                            <a href="#"><img src="assets/images/logo-walmart-dark-blue.svg" alt=""></a>
-                        </div>
-                        <!-- end client item -->
-                        <!-- start client item -->
-                        <div class="swiper-slide">
-                            <a href="#"><img src="assets/images/logo-netflix-dark-blue.svg" alt=""></a>
-                        </div>
-                        <!-- end client item -->
-                        <!-- start client item -->
-                        <div class="swiper-slide">
-                            <a href="#"><img src="assets/images/logo-invision-dark-blue.svg" alt=""></a>
-                        </div>
-                        <!-- end client item -->
-                        <!-- start client item -->
-                        <div class="swiper-slide">
-                            <a href="#"><img src="assets/images/logo-yahoo-dark-blue.svg" alt=""></a>
-                        </div>
-                        <!-- end client item -->
-                        <!-- start client item -->
-                        <div class="swiper-slide">
-                            <a href="#"><img src="assets/images/logo-amazon-dark-blue.svg" alt=""></a>
-                        </div>
-                        <!-- end client item -->
+
                     </div>
                 </div>
             </div>
@@ -856,7 +775,7 @@
         <div class="container-fluid">
             <div class="row justify-content-center appear anime-complete" data-anime="{ &quot;translateY&quot;: [0, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }" style="">
                 <div class="col-12">
-                    <div class="border-radius-6px h-450px md-h-350px sm-h-400px d-flex flex-wrap align-items-center justify-content-center overflow-hidden cover-background box-shadow-quadruple-large pt-15" style="background-image: url('assets/images/demo-corporate-video-img.jpg')">
+                    <div class="border-radius-6px h-450px md-h-350px sm-h-400px d-flex flex-wrap align-items-center justify-content-center overflow-hidden cover-background box-shadow-quadruple-large pt-15" style="background-image: url('assets/images/new/video-home.jpeg')">
                         <div class="opacity-full-dark bg-gradient-regal-blue-transparent"></div>
                         <div class="row justify-content-center m-0">
                             <div class="col-lg-7 col-md-8 z-index-1 text-center text-md-start sm-mb-20px">
@@ -864,7 +783,7 @@
                                 </h3>
                             </div>
                             <div class="col-md-2 position-relative z-index-1 text-center sm-mb-20px">
-                                <a href="https://www.youtube.com/watch?v=LEji2aTSgB4" class="position-relative d-inline-block text-center border border-2 border-color-white rounded-circle video-icon-box video-icon-large popup-youtube">
+                                <a href="#" class="position-relative d-inline-block text-center border border-2 border-color-white rounded-circle video-icon-box video-icon-large popup-youtube">
                                     <span>
                                         <span class="video-icon">
                                             <i class="fa-solid fa-play fs-20 text-white"></i>
@@ -874,7 +793,7 @@
                             </div>
                         </div>
                         <div class="w-100 text-center position-relative mt-auto pt-20px pb-25px ps-15px pe-15px border-top border-color-transparent-white-light">
-                            <div class="fs-14 text-uppercase text-white fw-600 ls-05px">Let's make something great work together. <a href="" class="text-decoration-line-bottom text-white">Got a project in mind?</a></div>
+                            <div class="fs-14 text-uppercase text-white fw-600 ls-05px">Let's make something great work together. <a href="/contact" class="text-decoration-line-bottom text-white">Got a project in mind?</a></div>
                         </div>
                     </div>
                 </div>
@@ -896,83 +815,42 @@
                     <ul class="blog-grid blog-wrapper grid grid-3col xl-grid-3col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large appear anime-child anime-complete" data-anime="{ &quot;el&quot;: &quot;childs&quot;, &quot;translateY&quot;: [50, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 1200, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 150, &quot;easing&quot;: &quot;easeOutQuad&quot; }" style="position: relative; height: 578.26px;">
                         <li class="grid-sizer"></li>
                         <!-- start blog item -->
+                        @forelse($homeBlogs as $blog)
                         <li class="grid-item">
                             <div class="card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover">
                                 <div class="blog-image">
-                                    <a href="demo-corporate-blog-single-clean.html" class="d-block"><img src="assets/images/demo-corporate-blog-01.jpg" alt="" /></a>
+                                    <a href="{{ route('blog.show', $blog->id) }}" class="d-block">
+                                        <img src="{{ asset('blog_images/' . $blog->image) }}" style="width: 100%; height: 220px !important; object-fit: cover;" alt="Blog image" />
+                                    </a>
 
                                 </div>
                                 <div class="card-body p-6 lg-p-6">
-                                    <a href="" class="card-title mb-15px fw-700 fs-16 text-dark-gray d-inline-block w-90 md-w-100 lh-20">Build up healthy habits and strong peaceful life.</a>
-                                    <p class="fs-14 lh-18">Lorem ipsum dolor consectetur adipiscing eiusmod tempor...</p>
+                                    <a href="{{ route('blog.show', $blog->id) }}" class="card-title mb-15px fw-700 fs-16 text-dark-gray d-inline-block w-90 md-w-100 lh-20">{{ $blog->title }}</a>
+                                    <p class="fs-14 lh-18">{{ \Illuminate\Support\Str::words(strip_tags($blog->content), 15, '...') }}</p>
                                     <div class="author d-flex justify-content-center align-items-center position-relative overflow-hidden fs-10 text-uppercase">
                                         <div class="me-auto">
-                                            <span class="blog-date d-inline-block fw-700 text-dark-gray">30 August 2021</span>
-                                            <div class="d-inline-block author-name fw-700 text-dark-gray">By <a href="demo-corporate-blog.html" class="text-dark-gray text-decoration-line-bottom">Den viliamson</a></div>
+                                            <span class="blog-date d-inline-block fw-700 text-dark-gray">{{ $blog->author }}</span>
+                                            <div class="d-inline-block author-name fw-700 text-dark-gray">By <a href="{{ route('blog.show', $blog->id) }}" class="text-dark-gray text-decoration-line-bottom">{{ $blog->author }}</a></div>
                                         </div>
                                         <div class="like-count">
                                             <i class="fa-regular fa-calendar text-red"></i>
-                                            <a href=""><span class="text-dark-gray align-middle fw-700">25th Jan, 2024</span></a>
+                                            <a href="{{ route('blog.show', $blog->id) }}"><span class="text-dark-gray align-middle fw-700">{{ $blog->created_at->format('jS M, Y') }}</span></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </li>
-                        <!-- end blog item -->
-                        <!-- start blog item -->
+                        @empty
                         <li class="grid-item">
-                            <div class="card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover">
-                                <div class="blog-image">
-                                    <a href="demo-corporate-blog-single-clean.html" class="d-block"><img src="assets/images/demo-corporate-blog-02.jpg" alt="" /></a>
-
-                                </div>
-                                <div class="card-body p-6 lg-p-6">
-                                    <a href="" class="card-title mb-15px fw-700 fs-16 text-dark-gray d-inline-block w-90 md-w-100 lh-20">Build up healthy habits and strong peaceful life.</a>
-                                    <p class="fs-14 lh-18">Lorem ipsum dolor consectetur adipiscing eiusmod tempor...</p>
-                                    <div class="author d-flex justify-content-center align-items-center position-relative overflow-hidden fs-10 text-uppercase">
-                                        <div class="me-auto">
-                                            <span class="blog-date d-inline-block fw-700 text-dark-gray">30 August 2021</span>
-                                            <div class="d-inline-block author-name fw-700 text-dark-gray">By <a href="demo-corporate-blog.html" class="text-dark-gray text-decoration-line-bottom">Den viliamson</a></div>
-                                        </div>
-                                        <div class="like-count">
-                                            <i class="fa-regular fa-calendar text-red"></i>
-                                            <a href=""><span class="text-dark-gray align-middle fw-700">25th Jan, 2024</span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <p class="text-center text-danger">No blog posts available.</p>
                         </li>
-                        <!-- end blog item -->
-                        <!-- start blog item -->
-                        <li class="grid-item">
-                            <div class="card border-0 border-radius-5px box-shadow-quadruple-large box-shadow-quadruple-large-hover">
-                                <div class="blog-image">
-                                    <a href="demo-corporate-blog-single-clean.html" class="d-block"><img src="assets/images/demo-corporate-blog-03.jpg" alt="" /></a>
-
-                                </div>
-                                <div class="card-body p-6 lg-p-6">
-                                    <a href="" class="card-title mb-15px fw-700 fs-16 text-dark-gray d-inline-block w-90 md-w-100 lh-20">Build up healthy habits and strong peaceful life.</a>
-                                    <p class="fs-14 lh-18">Lorem ipsum dolor consectetur adipiscing eiusmod tempor...</p>
-                                    <div class="author d-flex justify-content-center align-items-center position-relative overflow-hidden fs-10 text-uppercase">
-                                        <div class="me-auto">
-                                            <span class="blog-date d-inline-block fw-700 text-dark-gray">30 August 2021</span>
-                                            <div class="d-inline-block author-name fw-700 text-dark-gray">By <a href="demo-corporate-blog.html" class="text-dark-gray text-decoration-line-bottom">Den viliamson</a></div>
-                                        </div>
-                                        <div class="like-count">
-                                            <i class="fa-regular fa-calendar text-red"></i>
-                                            <a href=""><span class="text-dark-gray align-middle fw-700">25th Jan, 2024</span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
+                        @endforelse
                         <!-- end blog item -->
                     </ul>
                 </div>
             </div>
         </div>
     </section>
-
 
 
 </div>

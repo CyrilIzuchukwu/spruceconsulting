@@ -2,7 +2,7 @@
 @section('content')
 
 <!-- start page title -->
-<section class="page-title-big-typography bg-dark-gray ipad-top-space-margin" data-parallax-background-ratio="0.5" style="background-image: url(assets/images/demo-business-about-title-bg.jpg)">
+<section class="page-title-big-typography bg-dark-gray ipad-top-space-margin" data-parallax-background-ratio="0.5" style="background-image: url(assets/images/new/Breadcrumb.jpg)">
     <div class="opacity-extra-medium bg-dark-slate-blue"></div>
     <div class="container">
         <div class="row align-items-center justify-content-center extra-small-screen">
@@ -33,7 +33,7 @@
                         <div class="atropos-rotate">
                             <div class="atropos-inner">
                                 <div data-atropos-offset="3">
-                                    <img src="assets/images/demo-business-about-01.jpg" class="border-radius-6px w-100" alt="">
+                                    <img src="{{ asset('assets/images/new/about-who-we-are.jpg') }}" class="border-radius-6px w-100" alt="">
                                 </div>
                             </div>
                         </div>
@@ -53,19 +53,19 @@
                 </div>
             </div>
             <div class="col-xl-5 col-lg-6 offset-lg-1 col-md-9 ps-6 text-center text-lg-start lg-ps-15px" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                <span class="bg-solitude-blue text-uppercase fs-13 ps-25px pe-25px alt-font fw-600 text-base-color lh-40 sm-lh-55 border-radius-100px d-inline-block mb-25px">About company</span>
-                <h3 class="fw-600 text-dark-gray ls-minus-2px alt-font sm-w-80 xs-w-100 mx-auto sm-mb-20px">Provide advanced business solutions.</h3>
-                <p>Lorem ipsum dolor amet consectetur adipiscing elit do eiusmod tempor ut incididunt labore et dolore magna ut enim minim veniam adipiscing.</p>
-                <p>Lorem ipsum dolor consectetur et adipiscing elit eiusmod tempor incididunt adipiscing.</p>
-                <a href="demo-business-services.html" class="btn btn-large btn-dark-gray btn-box-shadow btn-rounded mt-15px sm-mt-10px">Our services<i class="fa-solid fa-arrow-right"></i></a>
+                <span class="bg-solitude-blue text-uppercase fs-13 ps-25px pe-25px alt-font fw-600 text-base-color lh-40 sm-lh-55 border-radius-100px d-inline-block mb-25px">About Spruce Consulting</span>
+                <h3 class="fw-600 text-dark-gray ls-minus-2px alt-font sm-w-80 xs-w-100 mx-auto sm-mb-20px">Who we are</h3>
+                <p>Spruce Consulting is a premier media agency based in Nigeria, dedicated to helping brands, individuals, and organizations harness the power of digital media and out-of-home (OOH) advertising.</p>
+                <p> We are passionate about driving meaningful connections between brands and their audiences, creating campaigns that inspire, inform, and engage.</p>
+                <a href="/services" class="btn btn-large btn-dark-gray btn-box-shadow btn-rounded mt-15px sm-mt-10px">Our services<i class="fa-solid fa-arrow-right"></i></a>
             </div>
         </div>
         <div class="row align-items-center justify-content-center mt-7 ps-5 sm-mt-35px lg-ps-0 pe-5 lg-pe-0">
             <div class="col-md-6 col-sm-8 md-mb-35px">
                 <div class="row align-items-center justify-content-center" data-anime='{ "translateY":[0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
-                    <div class="col-auto"><span class="alt-font text-dark-gray fw-600 fs-130 lg-fs-110 ls-minus-7px">30</span></div>
+                    <div class="col-auto"><span class="alt-font text-dark-gray fw-600 fs-130 lg-fs-110 ls-minus-7px">2</span></div>
                     <div class="col-5 col-xl-4 col-lg-5 col-sm-6">
-                        <h6 class="fw-500 text-dark-gray alt-font m-0 ls-minus-1px">Years experience working.</h6>
+                        <h6 class="fw-500 text-dark-gray alt-font m-0 ls-minus-1px">Years working experience.</h6>
                     </div>
                     <div class="col-3 col-xl-3 col-md-2 text-center d-none d-lg-inline-block"><span class="fw-400 fs-110 text-base-color position-relative top-minus-10px">|</span></div>
                 </div>
@@ -73,12 +73,12 @@
             <div class="col-lg-6 col-md-10 overflow-hidden">
                 <div class="row align-items-center" data-anime='{ "el": "childs", "translateY":[0, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 100, "easing": "easeOutQuad" }'>
                     <div class="col-sm-6 last-paragraph-no-margin text-center xs-mb-35px">
-                        <h2 class="fw-700 text-dark-gray mb-5px alt-font">5M+</h2>
+                        <h2 class="fw-700 text-dark-gray mb-5px alt-font">20+</h2>
                         <span class="fs-18 alt-font ls-minus-05px fw-500 text-dark-gray">Project completed</span>
-                        <p class="lh-24">Lorem simply text</p>
+                        <!-- <p class="lh-24">Lorem simply text</p> -->
                     </div>
                     <div class="col-sm-6 last-paragraph-no-margin text-center">
-                        <h2 class="fw-700 text-dark-gray mb-5px alt-font">64K</h2>
+                        <h2 class="fw-700 text-dark-gray mb-5px alt-font">1K</h2>
                         <span class="fs-18 alt-font ls-minus-05px fw-500 text-dark-gray">Satisfied customer</span>
                         <p class="lh-24">Lorem simply text</p>
                     </div>
@@ -99,7 +99,7 @@
                         <i class="bi bi-chat-text icon-extra-medium text-base-color"></i>
                     </div>
                     <div class="feature-box-content last-paragraph-no-margin text-dark-gray text-uppercase fs-15 fw-700 ls-05px">
-                        Let's make something great work together. <a href="" class="text-base-color text-decoration-line-bottom-medium border-1">Got a project in mind?</a>
+                        Let's make something great work together. <a href="/contact" class="text-base-color text-decoration-line-bottom-medium border-1">Got a project in mind?</a>
                     </div>
                 </div>
             </div>
@@ -117,11 +117,11 @@
         <div class="row justify-content-center align-items-center mb-3">
             <div class="col-xl-5 col-lg-6 md-mb-14 sm-mb-18 xs-mb-23 position-relative" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <div class="w-75 sm-w-80" data-animation-delay="200" data-shadow-animation="true" data-bottom-top="transform: translateY(50px)" data-top-bottom="transform: translateY(-50px)">
-                    <img src="assets/images/demo-corporate-about-img-01.jpg" alt="" class="border-radius-6px w-100">
+                    <img src="{{ asset('assets/images/new/who-we-are1.jpg') }}" alt="" class="border-radius-6px w-100">
 
                 </div>
                 <div class="w-55 overflow-hidden position-absolute right-15px xs-w-55 bottom-minus-50px" data-shadow-animation="true" data-animation-delay="100" data-bottom-top="transform: translateY(20px)" data-top-bottom="transform: translateY(-20px)">
-                    <img src="assets/images/demo-corporate-about-img-02.jpg" alt="" class="border-radius-6px box-shadow-quadruple-large w-100" />
+                    <img src="{{ asset('assets/images/new/who-we-are21.jpg') }}" alt="" class="border-radius-6px box-shadow-quadruple-large w-100" />
                 </div>
             </div>
             <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-lg-start" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 150, "staggervalue": 300, "easing": "easeOutQuad" }'>
@@ -130,22 +130,22 @@
                         <!-- start text slider item -->
                         <div class="swiper-slide">
                             <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-14 lh-42px fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-block">Company Mission</span>
-                            <h3 class="text-dark-gray fw-700 ls-minus-1px mb-20px">We help to business growth and solution.</h3>
-                            <p class="w-95 xl-w-100">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum has been industry's standard dummy text ever since the when an unknown adipiscing elit do eiusmod tempor incididunt ut labore printer took and scrambled it specimen book.</p>
+                            <h3 class="text-dark-gray fw-700 ls-minus-1px mb-20px">Innovative media solutions for growth</h3>
+                            <p class="w-95 xl-w-100">To deliver cutting-edge media solutions that combine creativity, technology, and data-driven insights, empowering businesses and individuals to achieve sustainable growth.</p>
                         </div>
                         <!-- end text slider item -->
                         <!-- start text slider item -->
                         <div class="swiper-slide">
                             <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-14 lh-42px fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-block">Company Vision</span>
-                            <h3 class="text-dark-gray fw-700 ls-minus-1px mb-20px">A business plan and performance ideas.</h3>
-                            <p class="w-95 xl-w-100">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum has been industry's standard dummy text ever since the when an unknown adipiscing elit do eiusmod tempor incididunt ut labore printer took and scrambled it specimen book.</p>
+                            <h3 class="text-dark-gray fw-700 ls-minus-1px mb-20px">Building trusted household brands.</h3>
+                            <p class="w-95 xl-w-100">Our vision is to be the go-to media partner for transforming brands into trusted household names through innovative communication strategies.</p>
                         </div>
                         <!-- end text slider item -->
                         <!-- start text slider item -->
                         <div class="swiper-slide">
                             <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-14 lh-42px fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-block">Company Value</span>
-                            <h3 class="text-dark-gray fw-700 ls-minus-1px mb-20px">Make the creative solutions for business.</h3>
-                            <p class="w-95 xl-w-100">Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem ipsum has been industry's standard dummy text ever since the when an unknown adipiscing elit do eiusmod tempor incididunt ut labore printer took and scrambled it specimen book.</p>
+                            <h3 class="text-dark-gray fw-700 ls-minus-1px mb-20px">Trust, innovation, and excellence</h3>
+                            <p class="w-95 xl-w-100">We are committed to integrity, creativity, and excellence in delivering impactful media solutions that drive long-term success for our clients.</p>
                         </div>
                         <!-- end text slider item -->
                     </div>
@@ -175,13 +175,14 @@
         </div>
         <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 150, "easing": "easeOutQuad" }'>
             <!-- start team member item -->
+            @forelse($oursTeams as $team)
             <div class="col team-style-08 border-radius-6px md-mb-30px">
                 <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                    <img src="assets/images/demo-corporate-team-01.jpg" alt="" />
+                    <img src="{{ asset('team_images/' . $team->image) }}" alt="{{ $team->name }}" />
                     <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
                         <div class="w-100">
-                            <span class="team-member-name fw-500 text-white d-block">Jeremy dupont</span>
-                            <span class="member-designation fs-15 lh-20 text-white d-block">Director</span>
+                            <span class="team-member-name fw-500 text-white d-block">{{ $team->name }}</span>
+                            <span class="member-designation fs-15 lh-20 text-white d-block">{{ $team->bio }}</span>
                         </div>
                         <div class="social-icon d-flex flex-column flex-shrink-1">
                             <a href="https://www.twitter.com/" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-twitter icon-small"></i></a>
@@ -189,54 +190,9 @@
                     </figcaption>
                 </figure>
             </div>
-            <!-- end team member item -->
-            <!-- start team member item -->
-            <div class="col team-style-08 border-radius-6px md-mb-30px">
-                <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                    <img src="assets/images/demo-corporate-team-02.jpg" alt="" />
-                    <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
-                        <div class="w-100">
-                            <span class="team-member-name fw-500 text-white d-block">Jessica dover</span>
-                            <span class="member-designation fs-15 lh-20 text-white d-block">Founder</span>
-                        </div>
-                        <div class="social-icon d-flex flex-column flex-shrink-1">
-                            <a href="https://www.linkedin.com/" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-linkedin-in icon-small"></i></a>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team member item -->
-            <!-- start team member item -->
-            <div class="col team-style-08 border-radius-6px xs-mb-30px">
-                <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                    <img src="assets/images/demo-corporate-team-03.jpg" alt="" />
-                    <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
-                        <div class="w-100">
-                            <span class="team-member-name fw-500 text-white d-block">Matthew taylor</span>
-                            <span class="member-designation fs-15 lh-20 text-white d-block">Manager</span>
-                        </div>
-                        <div class="social-icon d-flex flex-column flex-shrink-1">
-                            <a href="https://www.behance.net/" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-behance icon-small"></i></a>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
-            <!-- end team member item -->
-            <!-- start team member item -->
-            <div class="col team-style-08 border-radius-6px">
-                <figure class="mb-0 position-relative overflow-hidden border-radius-4px">
-                    <img src="assets/images/demo-corporate-team-04.jpg" alt="" />
-                    <figcaption class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-10 bg-gradient-base-transparent border-radius-6px">
-                        <div class="w-100">
-                            <span class="team-member-name fw-500 text-white d-block">Johncy parker</span>
-                            <span class="member-designation fs-15 lh-20 text-white d-block">Manager</span>
-                        </div>
-                        <div class="social-icon d-flex flex-column flex-shrink-1">
-                            <a href="https://www.facebook.com/" target="_blank" class="text-dark-gray bg-white"><i class="fa-brands fa-facebook-f icon-small"></i></a>
-                        </div>
-                    </figcaption>
-                </figure>
-            </div>
+            @empty
+            <p class="text-center text-muted">Not available.</p>
+            @endforelse
             <!-- end team member item -->
         </div>
     </div>
@@ -245,58 +201,38 @@
 
 <!-- start section -->
 <section class="pt-0">
-    <div class="container-fluid">
+    <div class="container">
+
+        <div class="row justify-content-center">
+            <div class="col-lg-5 text-center mb-2 xs-mb-4" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                <span class="text-dark-gray fw-600 fs-16 text-uppercase border-1 pb-5px border-bottom border-color-extra-medium-gray text-dark-gray">Partners</span>
+            </div>
+        </div>
+
         <div class="row position-relative clients-style-08 mt-25px" data-anime='{ "translateX": [0, 0], "opacity": [0,1], "duration": 800, "delay":100, "staggervalue": 150, "easing": "easeOutQuad" }'>
-            <div class="col swiper text-center feather-shadow" data-slider-options='{ "slidesPerView": 2, "spaceBetween":0, "speed": 3000, "loop": true, "pagination": { "el": ".slider-four-slide-pagination-2", "clickable": false }, "allowTouchMove": false, "autoplay": { "delay":0, "disableOnInteraction": false, "pauseOnMouseEnter": false}, "navigation": { "nextEl": ".slider-four-slide-next-2", "prevEl": ".slider-four-slide-prev-2" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1200": { "slidesPerView": 5 }, "768": { "slidesPerView": 3 }, "576": { "slidesPerView": 2 } }, "effect": "slide" }'>
-                <div class="swiper-wrapper marquee-slide">
+            <div class="col swiper text-center feather-shadow" data-slider-options='{ "slidesPerView": 2, "spaceBetween":0, "speed": 3000, "loop": true, "pagination": { "el": ".slider-four-slide-pagination-2", "clickable": false }, "allowTouchMove": false, "autoplay": { "delay":0, "disableOnInteraction": false, "pauseOnMouseEnter": false}, "navigation": { "nextEl": ".slider-four-slide-next-2", "prevEl": ".slider-four-slide-prev-2" }, "keyboard": { "enabled": true, "onlyInViewport": true }, "breakpoints": { "1200": { "slidesPerView": 4 }, "768": { "slidesPerView": 3 }, "576": { "slidesPerView": 2 } }, "effect": "slide" }'>
+                <div class="swiper-wrapper marquee-slide" style="display: flex; gap: 20px;">
                     <!-- start client item -->
                     <div class="swiper-slide">
-                        <a href="#"><img src="assets/images/logo-walmart-dark-blue.svg" alt="" /></a>
+                        <a href="javascript:void(0)"><img src="{{asset('assets/images/new/afe.jpeg') }}" alt="" /></a>
                     </div>
                     <!-- end client item -->
+
                     <!-- start client item -->
                     <div class="swiper-slide">
-                        <a href="#"><img src="assets/images/logo-netflix-dark-blue.svg" alt="" /></a>
+                        <a href="javascript:void(0)"><img src="{{asset('assets/images/new/ajebota.png') }}" alt="" /></a>
                     </div>
                     <!-- end client item -->
+
                     <!-- start client item -->
                     <div class="swiper-slide">
-                        <a href="#"><img src="assets/images/logo-invision-dark-blue.svg" alt="" /></a>
+                        <a href="javascript:void(0)"><img src="{{asset('assets/images/new/afe.jpeg') }}" alt="" /></a>
                     </div>
                     <!-- end client item -->
+
                     <!-- start client item -->
                     <div class="swiper-slide">
-                        <a href="#"><img src="assets/images/logo-yahoo-dark-blue.svg" alt="" /></a>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="swiper-slide">
-                        <a href="#"><img src="assets/images/logo-amazon-dark-blue.svg" alt="" /></a>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="swiper-slide">
-                        <a href="#"><img src="assets/images/logo-walmart-dark-blue.svg" alt="" /></a>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="swiper-slide">
-                        <a href="#"><img src="assets/images/logo-netflix-dark-blue.svg" alt="" /></a>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="swiper-slide">
-                        <a href="#"><img src="assets/images/logo-invision-dark-blue.svg" alt="" /></a>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="swiper-slide">
-                        <a href="#"><img src="assets/images/logo-yahoo-dark-blue.svg" alt="" /></a>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="swiper-slide">
-                        <a href="#"><img src="assets/images/logo-invision-dark-blue.svg" alt="" /></a>
+                        <a href="javascript:void(0)"><img src="{{asset('assets/images/new/ajebota.png') }}" alt="" /></a>
                     </div>
                     <!-- end client item -->
                 </div>

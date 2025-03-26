@@ -2,7 +2,7 @@
 @section('content')
 
 <!-- start page title -->
-<section class="page-title-big-typography bg-dark-gray ipad-top-space-margin" data-parallax-background-ratio="0.5" style="background-image: url(assets/images/demo-business-contact-title-bg.jpg)">
+<section class="page-title-big-typography bg-dark-gray ipad-top-space-margin" data-parallax-background-ratio="0.5" style="background-image: url(assets/images/new/Breadcrumb.jpg)">
     <div class="opacity-extra-medium bg-dark-slate-blue"></div>
     <div class="container">
         <div class="row align-items-center justify-content-center extra-small-screen">
@@ -20,22 +20,29 @@
     </div>
 </section>
 <!-- end page title -->
+
 <!-- start section -->
 <section id="down-section" class="overflow-hidden">
     <div class="container">
         <div class="row g-0 justify-content-center">
             <div class="col-lg-3 col-md-6" data-anime='{ "translateX": [-15, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                <div class="h-100 sm-h-500px xs-h-400px cover-background" style="background-image: url(assets/images/demo-business-contact-01.jpg)"></div>
+                <div class="h-100 sm-h-500px xs-h-400px cover-background" style="background-image: url(assets/images/new/contact.jpg)"></div>
             </div>
             <div class="col-lg-4 col-md-6" data-anime='{ "translateX": [15, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                <div class="bg-base-color p-18 lg-p-15 h-100">
-                    <span class="text-white text-decoration-line-bottom mb-10px d-inline-block">Location</span>
-                    <p class="text-white opacity-5">401 Broadway, 24th Floor, Orchard View, London</p>
+                <div class="bg-base-color p-14 lg-p-15 h-100">
+                    <!-- <span class="text-white text-decoration-line-bottom mb-10px d-inline-block">Location</span>
+                    <p class="text-white opacity-5">401 Broadway, 24th Floor, Orchard View, London</p> -->
                     <span class="text-white text-decoration-line-bottom mb-10px d-inline-block">Phone Contact</span>
-                    <p><a href="tel:1800222000" class="text-white opacity-5">1-800-222-000</a><br><a href="tel:1800222002" class="text-white opacity-5">1-800-222-002</a></p>
+                    <p>
+                        <a href="tel:08137322869" class="text-white opacity-5">+234 813 732 2869</a>
+                        <br>
+                        <a href="tel:08020998814" class="text-white opacity-5">+234 802 099 8814</a>
+                        <br>
+                        <a href="tel:08038130450" class="text-white opacity-5">+234 803 813 0450</a>
+                    </p>
 
                     <span class="text-white text-decoration-line-bottom mb-10px d-inline-block">Email Address</span>
-                    <a href="" class="text-white opacity-5 d-block"><span>spruceconsulting@gmail.com</span></a>
+                    <a href="" class="text-white opacity-5 d-block"><span>support@spruceconsulting.org</span></a>
                 </div>
             </div>
             <div class="col-lg-4 offset-lg-1">

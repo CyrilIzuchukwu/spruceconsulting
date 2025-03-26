@@ -112,7 +112,7 @@
 
         <!-- App footer starts -->
         <div class="app-footer bg-white">
-            <span>© Zeltek Super Admin 2024</span>
+            <span>© Spruce consulting Super Admin 2024</span>
         </div>
         <!-- App footer ends -->
 

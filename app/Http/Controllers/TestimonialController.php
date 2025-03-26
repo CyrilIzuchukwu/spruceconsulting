@@ -19,7 +19,6 @@ class TestimonialController extends Controller
     {
         try {
             $request->validate([
-                'service_type' => 'required',
                 'testimonial' => 'required',
                 'client_name' => 'required',
                 'client_logo' => 'required|image|max:5000',
@@ -32,7 +31,7 @@ class TestimonialController extends Controller
                 $clientImage->move(public_path('client_logos'), $clientImageName);
             }
 
-            $service_type = $request->service_type;
+            $service_type = "Null";
             $testimonial = $request->testimonial;
             $client_name = $request->client_name;
 
@@ -80,7 +79,6 @@ class TestimonialController extends Controller
     {
         try {
             $request->validate([
-                'service_type' => 'required',
                 'testimonial' => 'required',
                 'client_name' => 'required',
                 'client_logo' => 'nullable|image|max:5000',
@@ -106,7 +104,7 @@ class TestimonialController extends Controller
                 $testimonial->client_logo = $clientImageName;
             }
 
-            $testimonial->service_type = $request->service_type;
+            $testimonial->service_type = "Null";
             $testimonial->testimonial = $request->testimonial;
             $testimonial->client_name = $request->client_name;
 

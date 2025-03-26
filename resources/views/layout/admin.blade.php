@@ -8,14 +8,14 @@
     <base href="/public">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Zeltek Dashboard</title>
+    <title>Spruce Consulting Admin - Dashboard</title>
 
     <!-- Meta -->
     <meta name="description" content="">
     <meta property="og:title" content="">
     <meta property="og:description" content="">
     <meta property="og:type" content="Website">
-    <link rel="shortcut icon" href="{{ asset('assets/images/fav.png') }}">
+    <link rel="shortcut icon" href="{{ asset('assets/images/favicon.png') }}">
 
 
     <script src="{{ asset('admin_assets/assets/js/jquery.min.js') }}"></script>

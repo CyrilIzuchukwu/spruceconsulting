@@ -40,7 +40,6 @@
                                 <table class="table align-middle table-hover m-0 truncate">
                                     <thead>
                                         <tr>
-                                            <th scope="col">Service Type</th>
                                             <th scope="col">Client Name</th>
                                             <th scope="col">Logo</th>
                                             <th scope="col">Testimonial</th>
@@ -52,13 +51,13 @@
                                         @foreach($testimonials as $testimonial)
                                         <tr>
 
-                                            <td>{{ $testimonial->service_type }}</td>
+
                                             <td>{{ $testimonial->client_name }}</td>
 
 
                                             <td>
                                                 <div class="logo">
-                                                    <img src="{{ asset('client_logos/' . $testimonial->client_logo) }}" width="100" height="60" alt="client logo">
+                                                    <img src="{{ asset('client_logos/' . $testimonial->client_logo) }}" width="100" height="80" alt="client logo" style="object-fit: cover; object-position: top;">
                                                 </div>
                                             </td>
                                             <td style="text-wrap: wrap;">{{ $testimonial->testimonial }}</td>
@@ -84,7 +83,7 @@
                                 </table>
                             </div>
                         </div>
-                        
+
                         <div class="d-flex justify-content-between mt-4">
                             <div>
                                 Showing {{ $testimonials->firstItem() }} to {{ $testimonials->lastItem() }} of {{ $testimonials->total() }} results
@@ -115,7 +114,7 @@
 
         <!-- App footer starts -->
         <div class="app-footer bg-white">
-            <span>© Zeltek Super Admin 2024</span>
+            <span>© Spruce Consulting Super Admin 2024</span>
         </div>
         <!-- App footer ends -->
 

@@ -2,30 +2,52 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>Spruce Consulting</title>
+    <base href="/public">
+    <title>Spruce Consulting - Leading Media Agency in Nigeria</title>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="author" content="ThemeZaa">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <meta name="description" content="">
-    <!-- favicon icon -->
+    <meta name="author" content="Spruce Consulting">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Spruce Consulting is a premier media agency in Nigeria, specializing in digital media and out-of-home (OOH) advertising. We help brands create impactful campaigns that connect, engage, and inspire audiences.">
+    <meta name="keywords" content="media agency Nigeria, digital media, OOH advertising, brand engagement, marketing, advertising agency, media strategy">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://www.spruceconsulting.org">
+
+    <!-- Open Graph (Facebook, LinkedIn) -->
+    <meta property="og:title" content="Spruce Consulting - Premier Media Agency in Nigeria">
+    <meta property="og:description" content="Helping brands harness digital media and OOH advertising to drive engagement and brand growth in Nigeria.">
+    <meta property="og:image" content="https://www.spruceconsulting.ng/assets/images/favicon.png">
+    <meta property="og:url" content="https://www.spruceconsulting.org">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Spruce Consulting - Media & Advertising Agency in Nigeria">
+    <meta name="twitter:description" content="Experts in digital media and out-of-home (OOH) advertising, helping brands reach their audiences effectively.">
+    <meta name="twitter:image" content="https://www.spruceconsulting.ng/assets/images/favicon.png">
+
+    <!-- Favicon -->
     <link rel="shortcut icon" href="{{ asset('assets/images/favicon.png') }}">
-    
+    <link rel="icon" href="/favicon.png" type="image/x-icon">
     <link rel="apple-touch-icon" href="{{ asset('assets/images/apple-touch-icon-57x57.png') }}">
     <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('assets/images/apple-touch-icon-72x72.png') }}">
     <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('assets/images/apple-touch-icon-114x114.png') }}">
-    <!-- google fonts preconnect -->
+
+    <!-- Google Fonts Preconnect -->
     <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin="">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <!-- style sheets and font icons -->
+
+    <!-- Stylesheets -->
     <link rel="stylesheet" href="{{ asset('assets/css/vendors.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/icon.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/style.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/responsive.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/demos/corporate/corporate.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/demos/business/business.css') }}">
-
-    <!-- <link rel="stylesheet" href="demos/corporate/corporate.css" /> -->
 </head>
 
 <body data-mobile-nav-style="classic">

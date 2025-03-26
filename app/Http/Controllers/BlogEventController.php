@@ -118,4 +118,11 @@ class BlogEventController extends Controller
             return redirect()->back()->withInput()->with('error', $e->getMessage());
         }
     }
+
+
+    public function blowShow($id)
+    {
+        $blog = Blog::findOrFail($id);
+        return view('blog-details', compact('blog'));
+    }
 }

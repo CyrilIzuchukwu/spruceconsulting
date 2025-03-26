@@ -37,13 +37,6 @@ class AppServiceProvider extends ServiceProvider
             $view->with('testimonialView', $testimonialView);
 
 
-            $trainingTestimonials = Testimonial::where('service_type', 'Training Service')->get();
-            $view->with('trainingTestimonials', $trainingTestimonials);
-            // dd($trainingTestimonials);
-
-            $projectManagementTestimonials = Testimonial::where('service_type', 'Project Management Service')->get();
-            $view->with('projectManagementTestimonials', $projectManagementTestimonials);
-
 
             $inquiryCount = Inquiry::count();
             $view->with('inquiryCount', $inquiryCount);
@@ -75,10 +68,14 @@ class AppServiceProvider extends ServiceProvider
 
 
 
-            // blogs in frontend
-            $all_blogs = Blog::orderBy('created_at', 'desc')->Paginate(2);
-            $view->with('all_blogs', $all_blogs);
+            // blogs in home page
+            $homeBlogs = Blog::orderBy('created_at', 'desc')->take(3)->get();
+            $view->with('homeBlogs', $homeBlogs);
 
+
+            // main blog page view
+            $blogBlogs = Blog::orderBy('created_at', 'desc')->paginate(6);
+            $view->with('blogBlogs', $blogBlogs);
 
 
             $services = Service::all();
