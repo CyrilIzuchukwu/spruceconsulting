@@ -80,7 +80,7 @@
                     <div class="col-sm-6 last-paragraph-no-margin text-center">
                         <h2 class="fw-700 text-dark-gray mb-5px alt-font">1K</h2>
                         <span class="fs-18 alt-font ls-minus-05px fw-500 text-dark-gray">Satisfied customer</span>
-                        <p class="lh-24">Lorem simply text</p>
+                        <!-- <p class="lh-24">Lorem simply text</p> -->
                     </div>
                 </div>
             </div>
